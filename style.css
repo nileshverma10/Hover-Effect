@@ -1,0 +1,24 @@
+body{
+    background-color: aquamarine;
+    /* margin: 10 0; */
+
+}
+
+.tat{
+    align-items: center;
+}
+
+.how{
+    display: inline-flex;
+    justify-content: space-between;
+    margin-left: 30px;
+    align-items: center;
+    float: right;
+    margin-right: 50px;
+
+}
+
+.how:hover{
+    color: red;
+    background-color: blueviolet;
+}
